@@ -1,7 +1,7 @@
 PODS:
-  - SwiftyCodeView (0.3.3):
-    - SwiftyCodeView/Core (= 0.3.3)
-  - SwiftyCodeView/Core (0.3.3)
+  - SwiftyCodeView (0.3.6):
+    - SwiftyCodeView/Core (= 0.3.6)
+  - SwiftyCodeView/Core (0.3.6)
 
 DEPENDENCIES:
   - SwiftyCodeView (from `../`)
@@ -11,8 +11,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SwiftyCodeView: 6c2b6353bba059eaa78959b8fbdc1be282b83655
+  SwiftyCodeView: 0252e3520749a3fda1a9b141873401f8e6c570ad
 
 PODFILE CHECKSUM: 23bac89511b609a750a4b2eba24b68be7720253d
 
-COCOAPODS: 1.7.1
+COCOAPODS: 1.10.0
